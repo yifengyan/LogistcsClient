@@ -1,0 +1,10 @@
+C:\Users\wftc\Desktop\源代码\LogisticsClient\LogisticsClient\bin\Debug\LogisticsClient.exe
+C:\Users\wftc\Desktop\源代码\LogisticsClient\LogisticsClient\bin\Debug\LogisticsClient.pdb
+C:\Users\wftc\Desktop\源代码\LogisticsClient\LogisticsClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\wftc\Desktop\源代码\LogisticsClient\LogisticsClient\obj\x86\Debug\LogisticsClient.Form1.resources
+C:\Users\wftc\Desktop\源代码\LogisticsClient\LogisticsClient\obj\x86\Debug\LogisticsClient.Properties.Resources.resources
+C:\Users\wftc\Desktop\源代码\LogisticsClient\LogisticsClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\wftc\Desktop\源代码\LogisticsClient\LogisticsClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\wftc\Desktop\源代码\LogisticsClient\LogisticsClient\obj\x86\Debug\LogisticsClient.exe
+C:\Users\wftc\Desktop\源代码\LogisticsClient\LogisticsClient\obj\x86\Debug\LogisticsClient.pdb
+C:\Users\wftc\Desktop\源代码\LogisticsClient\LogisticsClient\obj\x86\Debug\LogisticsClient.Form2.resources
